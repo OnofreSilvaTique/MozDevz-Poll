@@ -24,7 +24,7 @@ A aplicação foi desenvolvida utilizando Firebase, por isso, necessita de um pr
 
 # Contribuir
 É só enviar um Pull Request. Qualquer tipo de contribuição será aceite. :)
-
+Onofre
 Licença
 =======
 
